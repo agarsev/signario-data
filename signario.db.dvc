@@ -1,0 +1,4 @@
+outs:
+- md5: ffded1ad699456d321e10d9805761c72
+  size: 122880
+  path: signario.db

@@ -2,3 +2,4 @@ __pycache__
 /videos/*/raw.mp4
 /videos/*/lowq.mp4
 /videos/*/cuts
+/signario.db
