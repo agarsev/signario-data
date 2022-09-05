@@ -1,0 +1,5 @@
+outs:
+- md5: 843a68f92a58702c78ff64c46aa94a7b.dir
+  size: 700032
+  nfiles: 9
+  path: cuts

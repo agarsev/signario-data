@@ -1,0 +1,5 @@
+outs:
+- md5: f2198cdccebbb745579d9407ef46a2e1
+  size: 12587714
+  path: raw.mp4
+  isexec: true

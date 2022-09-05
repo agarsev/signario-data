@@ -1,0 +1,5 @@
+outs:
+- md5: 17bad3b99482df93dc64e121889ee04d.dir
+  size: 6789733
+  nfiles: 74
+  path: cuts
