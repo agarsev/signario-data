@@ -1,10 +1,7 @@
-# Vids
+## Tomas falsas
 
-- 0504_C0039 raw corrupto
- 
-## Tomas falsas nuevas
-
-09,11,12,44
+- segundo batch: 09,11,12,44
+- después de fix C0039: 01
 
 # Data info
 

@@ -15,3 +15,5 @@ $(DATA)/%/lowq.mp4: $(DATA)/%/raw.mp4
 
 $(DATA)/%/cuts: $(DATA)/%/lowq.mp4 $(DATA)/%/info.json scripts/cut_video.py
 	python3 scripts/cut_video.py $@ $(@D)
+
+.SECONDARY:
